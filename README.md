@@ -10,6 +10,7 @@
 | `references/pallet-safety.md` | זיהוי משטח בטוח (HT/KD/DB מול MB), סימני אזהרה, שיטות פירוק, מידות נפוצות |
 | `references/project-ideas.md` | רעיונות לפרויקטים ב-3 רמות קושי |
 | `references/finishing.md` | שיוף, שריפה בברנר (שו סוגי באן), ריסוס צבע, חותמת לוגו |
+| `references/page-design.md` | השפה העיצובית הקבועה לדפי אינטרנט של פרויקטים |
 
 ## התקנה
 
